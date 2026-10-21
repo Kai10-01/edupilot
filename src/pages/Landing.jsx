@@ -3,7 +3,7 @@ import { Building2, Eye, Globe2, Home, Landmark, LayoutDashboard, ReceiptText, S
 import { DemoBanner, Logo, StatusChip } from '../components/ui';
 import { useAuth } from '../lib/store';
 
-const CANVA_SITE = 'https://edupilot-a3-bfw3130.my.canva.site/';
+const CANVA_SITE = 'https://adsvb-s.my.canva.site/edupilot-a3-bfm3130;
 
 export default function Landing() {
   const { session } = useAuth();
